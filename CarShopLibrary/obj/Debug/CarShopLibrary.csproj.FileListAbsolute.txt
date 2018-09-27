@@ -1,0 +1,7 @@
+C:\Users\Mohe\Documents\Visual Studio 2015\Projects\CarShop\CarShopLibrary\obj\Debug\CarShopLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Mohe\Desktop\CarShop\CarShopLibrary\bin\Debug\CarShopLibrary.dll.config
+C:\Users\Mohe\Desktop\CarShop\CarShopLibrary\bin\Debug\CarShopLibrary.dll
+C:\Users\Mohe\Desktop\CarShop\CarShopLibrary\bin\Debug\CarShopLibrary.pdb
+C:\Users\Mohe\Desktop\CarShop\CarShopLibrary\obj\Debug\CarShopLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Mohe\Desktop\CarShop\CarShopLibrary\obj\Debug\CarShopLibrary.dll
+C:\Users\Mohe\Desktop\CarShop\CarShopLibrary\obj\Debug\CarShopLibrary.pdb
